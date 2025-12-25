@@ -5,6 +5,7 @@
 
   - [Vulnerability Management](https://github.com/joshmadakor1/AD_PStest)
   - [Python Key Logger](https://github.com/FrankG23/Python-Key-Logger)
+  - [Mac Address Changer Script](https://github.com/FrankG23/Mac-Address-Changer-Script)
 
 <h2>📄 Certifications </h2>
 
