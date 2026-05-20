@@ -27,4 +27,3 @@
 [twitter]: https://twitter.com/Frankie_G11
 [instagram]: https://www.instagram.com/franciscog.8/
 [linkedin]: https://linkedin.com/in/francisco-guerrero-aaa7122b5
-[tryhackme]: 
